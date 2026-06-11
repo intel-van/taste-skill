@@ -23,3 +23,7 @@ Documented techniques for overriding default truncation behavior, ordered from p
 ### Findings
 - [Empirical Results](findings/empirical-results.md) — Controlled experiment data from 2025 academic studies.
 - [References](findings/references.md) — Cited studies and further reading.
+
+---
+
+[← Back to Research index](../README.md) · [📋 Root Causes →](root-causes/output-limits.md) · [📋 Remediation →](remediation/parameter-tuning.md) · [📋 Findings →](findings/empirical-results.md)

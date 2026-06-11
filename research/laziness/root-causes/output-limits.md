@@ -37,3 +37,7 @@ Purpose-built CLI tools (Gemini CLI, Claude Code, third-party wrappers) offer ad
 | Developer platform (AI Studio) | Full context, no hidden slicing | Low | Full |
 | Direct API | Full context, raw access | Minimal | Full |
 | CLI tools with local models | No corporate alignment filters | None | Full |
+
+---
+
+[← Back to Laziness Research](../README.md) · [📋 RLHF & Compute →](rlhf-and-compute.md) · [📋 Cognitive Shortcuts →](cognitive-shortcuts.md) · [📋 Training Data Bias →](training-data-bias.md)

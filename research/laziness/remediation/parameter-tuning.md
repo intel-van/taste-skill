@@ -42,3 +42,7 @@ Important constraints:
 - Even at `low`, Gemini Pro models perform mandatory minimum internal deliberation for safety and alignment.
 - For code generation and complex analysis, set to `medium` or `high` for quality scores consistently exceeding 92-95% compared to baseline.
 - Avoid combining extremely low temperature with `high` thinking level, as this can occasionally induce internal reasoning loops.
+
+---
+
+[← Back to Laziness Research](../README.md) · [📋 Prompt Engineering →](prompt-engineering.md) · [📋 Architectural Patterns →](architectural-patterns.md) · [📋 Reference Prompts →](reference-prompts.md)

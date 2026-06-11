@@ -109,3 +109,7 @@ v2 (experimental) is the new default AND it is actively iterating. Refinements m
 ## v1 - the original taste-skill
 
 The original release. Dial-driven philosophy, anti-slop rules, reference vocabulary of pattern names. Preserved at `skills/taste-skill-v1/` and installable as `design-taste-frontend-v1`.
+
+---
+
+[← Back to main README](README.md) · [📋 Research →](research/)

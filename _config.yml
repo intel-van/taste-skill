@@ -1,0 +1,14 @@
+# GitHub Pages 配置
+title: Taste Skill
+description: The Anti-Slop Frontend Framework for AI Agents — 提升 AI 生成界面的布局、排版和动效质量。
+markdown: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - research/
+  - skills/
+  - examples/
+  - assets/

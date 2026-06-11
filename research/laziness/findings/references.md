@@ -18,3 +18,7 @@
 - Anthropic MCP (Model Context Protocol) specification and integration guides
 - OpenAI API reference for temperature and Top-p parameter tuning
 - YAML front-matter specification for SKILL.md lazy-loading architecture
+
+---
+
+[← Back to Laziness Research](../README.md) · [📋 Empirical Results →](empirical-results.md)

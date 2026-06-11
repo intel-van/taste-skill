@@ -76,4 +76,8 @@ If your response approaches the output token limit:
 - End with: [PAUSED - X of Y sections complete. Send "continue" to resume]
 
 On "continue", pick up exactly where you stopped. No recaps or repetition.
+
+---
+
+[← Back to Laziness Research](../README.md) · [📋 Parameter Tuning →](parameter-tuning.md) · [📋 Prompt Engineering →](prompt-engineering.md) · [📋 Architectural Patterns →](architectural-patterns.md)
 ```

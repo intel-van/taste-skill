@@ -56,3 +56,7 @@ Statistical analysis of ChatGPT outputs during November-December 2023 versus Jan
 - Measurable decrease in average output length during December
 - Correlation with reduced work output in the training data during holiday periods
 - Output length increased when the system prompt explicitly stated a non-winter month
+
+---
+
+[← Back to Laziness Research](../README.md) · [📋 References →](references.md)

@@ -50,3 +50,7 @@ The prompt requires the model to:
 1. Define what excellence looks like for the given task
 2. Grade its own initial output against that definition
 3. Iterate until the self-defined quality bar is met
+
+---
+
+[← Back to Laziness Research](../README.md) · [📋 Parameter Tuning →](parameter-tuning.md) · [📋 Architectural Patterns →](architectural-patterns.md) · [📋 Reference Prompts →](reference-prompts.md)

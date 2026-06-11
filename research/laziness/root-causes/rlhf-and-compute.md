@@ -25,3 +25,7 @@ This aggressive calibration is further reinforced by safety tuning protocols, wh
 ## Dynamic Throttling
 
 Providers dynamically scale back model performance during peak demand periods. This introduces additional friction beyond what the base alignment already imposes, resulting in even shorter and less detailed outputs when server load is high.
+
+---
+
+[← Back to Laziness Research](../README.md) · [📋 Output Limits →](output-limits.md) · [📋 Cognitive Shortcuts →](cognitive-shortcuts.md) · [📋 Training Data Bias →](training-data-bias.md)
